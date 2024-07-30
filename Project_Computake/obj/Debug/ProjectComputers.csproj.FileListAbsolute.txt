@@ -1,0 +1,431 @@
+C:\Users\בתי\Desktop\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.AssemblyReference.cache
+C:\Users\בתי\Desktop\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectCustomers.GUI.frmCustomer.resources
+C:\Users\בתי\Desktop\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+C:\Users\בתי\Desktop\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+C:\Users\בתי\Desktop\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+C:\Users\בתי\Desktop\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+C:\Users\בתי\Desktop\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectCustomers.GUI.frmAllCustomers.resources
+C:\Users\בתי\Desktop\מסמכים של ילדים שמשתלטים לי על המחשב שליייייי\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.AssemblyReference.cache
+C:\Users\בתי\Desktop\מסמכים של ילדים שמשתלטים לי על המחשב שליייייי\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+C:\Users\בתי\Desktop\מסמכים של ילדים שמשתלטים לי על המחשב שליייייי\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectCustomers.GUI.frmAllCustomers.resources
+C:\Users\בתי\Desktop\מסמכים של ילדים שמשתלטים לי על המחשב שליייייי\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectCustomers.GUI.frmCustomer.resources
+C:\Users\בתי\Desktop\מסמכים של ילדים שמשתלטים לי על המחשב שליייייי\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+C:\Users\בתי\Desktop\מסמכים של ילדים שמשתלטים לי על המחשב שליייייי\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+C:\Users\בתי\Desktop\מסמכים של ילדים שמשתלטים לי על המחשב שליייייי\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+C:\Users\בתי\Desktop\מסמכים של ילדים שמשתלטים לי על המחשב שליייייי\תמונות תמר\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+C:\Users\בתי\Desktop\מסמכים של ילדים שמשתלטים לי על המחשב שליייייי\תמונות תמר\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+C:\Users\בתי\Desktop\מסמכים של ילדים שמשתלטים לי על המחשב שליייייי\תמונות תמר\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+C:\Users\בתי\Desktop\מסמכים של ילדים שמשתלטים לי על המחשב שליייייי\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+C:\Users\בתי\Desktop\מסמכים של ילדים שמשתלטים לי על המחשב שליייייי\תמונות תמר\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.AssemblyReference.cache
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmMain.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
+F:\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+F:\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+F:\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCustomers.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmCustomer.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmMain.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCustomers.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmCustomer.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllEmployee.resources
+E:\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+E:\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+E:\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.AssemblyReference.cache
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmMain.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCustomers.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllEmployee.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmCustomer.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllEmployee.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPassword.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPassword.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmProduct.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.AssemblyReference.cache
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmMain.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCustomers.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllEmployee.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmCustomer.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmEmployee.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPassword.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmProduct.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmEmployee.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPassword.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmProduct.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmEmployee.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmEmployee.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmProduct.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllProduct.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllProduct.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderTotal.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderTotal.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcOrderTotal.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcOrderTotal.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPay.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.AssemblyReference.cache
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmMain.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCustomers.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllEmployee.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllProduct.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmCustomer.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmEmployee.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrder.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderTotal.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPassword.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPay.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmProduct.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcOrderTotal.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UsProduct.resources
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+G:\מערכות מנהליות\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPay.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.AssemblyReference.cache
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmMain.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmStart.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCustomers.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllEmployee.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllProduct.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmCustomer.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmEmployee.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderTotal.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPassword.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPay.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmProduct.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcOrderTotal.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+G:\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+G:\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+G:\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.AssemblyReference.cache
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmMain.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmStart.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCustomers.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllEmployee.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllProduct.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmCustomer.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmEmployee.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderTotal.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPassword.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPay.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmProduct.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcOrderTotal.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.AssemblyReference.cache
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmMain.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCustomers.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllEmployee.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllProduct.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmCustomer.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmEmployee.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderTotal.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPassword.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPay.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmProduct.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcOrderTotal.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBorrow.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBuy.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBorrow.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBuy.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.ucOrderBorrow.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcProduct.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBorrow.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBuy.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.ucOrderBorrow.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcProduct.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllOrder.resources
+G:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllOrder.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllOrder.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBorrow.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBuy.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.ucOrderBorrow.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcProduct.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csprojAssemblyReference.cache
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmMain.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmStart.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCustomers.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllEmployee.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllOrder.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllProduct.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmCustomer.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmEmployee.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBorrow.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBuy.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderTotal.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPassword.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPay.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmProduct.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.ucOrderBorrow.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcOrderTotal.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcProduct.resources
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+F:\מערכות מנהליות\לבדיקה\תמר נסימי לבדיקה\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllOrder.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBorrow.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBuy.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.ucOrderBorrow.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcProduct.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllOrder.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.ucOrderBorrow.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcProduct.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.AssemblyReference.cache
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmMain.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmStart.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCustomers.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllEmployee.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllOrder.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllProduct.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmCustomer.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmEmployee.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBorrow.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBuy.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderTotal.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPassword.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPay.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmProduct.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.ucOrderBorrow.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcOrderTotal.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcProduct.resources
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
+C:\Users\בתי\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmReturnProduct.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmStart.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllOrder.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllProduct.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBorrow.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBuy.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderTotal.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPay.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmReturnProduct.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.ucOrderBorrow.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcOrderTotal.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcProduct.resources
+W:\מגמות\מדעי המחשב\מדעי המחשב כיתה יב פב\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.AssemblyReference.cache
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmReturnProduct.resources
+E:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmReturnProduct.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmReturnProduct.resources
+F:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UsProduct.resources
+C:\Users\Baylab5\Desktop\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UsProduct.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csprojAssemblyReference.cache
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmMain.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCustomers.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllEmployee.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllOrder.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllProduct.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmCustomer.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmEmployee.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBorrow.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBuy.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderTotal.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPassword.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPay.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmProduct.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmReturnProduct.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.ucOrderBorrow.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcOrderTotal.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcProduct.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UsProduct.resources
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+E:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllOrder.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllProduct.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBorrow.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBuy.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderTotal.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPay.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmReturnProduct.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.ucOrderBorrow.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcOrderTotal.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcProduct.resources
+H:\מערכות מנהליות\לבדיקה\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UsProduct.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.AssemblyReference.cache
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmMain.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCustomers.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllEmployee.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllOrder.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllProduct.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmCustomer.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmEmployee.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBorrow.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBuy.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderTotal.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPassword.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPay.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmProduct.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmReturnProduct.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.ucOrderBorrow.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcOrderTotal.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcProduct.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UsProduct.resources
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+H:\מערכות מנהליות\פרויקטים לפיקוח\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
+D:\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+D:\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+D:\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.AssemblyReference.cache
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.SuggestedBindingRedirects.cache
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmMain.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCustomers.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllEmployee.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllOrder.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllProduct.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmCustomer.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmEmployee.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBorrow.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBuy.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderTotal.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPassword.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPay.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmProduct.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmReturnProduct.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.ucOrderBorrow.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcOrderTotal.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcProduct.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UsProduct.resources
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+D:\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.AssemblyReference.cache
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmMain.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCustomers.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllEmployee.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllOrder.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllProduct.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmCustomer.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmEmployee.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBorrow.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBuy.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderTotal.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPassword.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPay.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmProduct.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmReturnProduct.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.ucOrderBorrow.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcOrderTotal.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcProduct.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UsProduct.resources
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+C:\Users\Baylab7\Desktop\תמר נסימי\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
+D:\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe.config
+D:\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.exe
+D:\ProjectComputers\ProjectComputers\bin\Debug\ProjectComputers.pdb
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.AssemblyReference.cache
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.frmMain.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCity.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllCustomers.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllEmployee.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllOrder.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmAllProduct.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmCustomer.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmEmployee.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBorrow.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderBuy.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmOrderTotal.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPassword.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmPay.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmProduct.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.GUI.frmReturnProduct.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.Properties.Resources.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.ucOrderBorrow.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcOrderTotal.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UcProduct.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.UsProduct.resources
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.GenerateResource.cache
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.csproj.CoreCompileInputs.cache
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.exe
+D:\ProjectComputers\ProjectComputers\obj\Debug\ProjectComputers.pdb
